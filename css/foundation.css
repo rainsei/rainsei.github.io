@@ -220,6 +220,10 @@ html {
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
   font-size: 100%;
+  background-color: gray;
+  border: 10px solid black;
+  padding: 3px;
+  margin: 15px;
 }
 
 *,
